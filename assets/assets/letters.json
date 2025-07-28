@@ -1,0 +1,145 @@
+{
+    "alumnos": [
+        {
+            "usuario": "emireth",
+            "password": "000001",
+            "carta": "Hola emireth, me alegra mucho haber sido tu maestro, eres una persona super centrada, dedicada, muy buena con tus amigos, y siempre brindas apoyo a quien te lo pide.\n Espero que sigas con ese misma dedicación en todos los aspectos de tu vida, no tengo la menor duda que serás exitosa en todo lo que tu quieras, siempre contarás con mi apoyo, aunque dudo que lo necesites, solo porfavor, no confies demasiado en todos"
+        },
+        {
+            "usuario": "emiliano",
+            "password": "000010",
+            "carta": "Hola emiliano, como está?, no sabe lo dificil que fue al principio trabajar con usted, pero con el paso del timpo me di cuenta lo buen amigo, alumno y persona que es usted, me alegra mucho ver como trabaja cuando le interesa lo que está haciendo. \n Ha tenido un crecimiento muy grande en este tiempo, me dio mucho gusto ver que quedó en la carrera que usted elijio, y no me queda duda que será un excelente profesional, durante su vida universitaria, sea muy dedicado porfavor, no olvide hacer amigos, divertirse, pero recuerde que el respeto y entender que todo tiene su tiempo le facilitara mucho la vida, sea feliz, y recuerdo que estaremos en la misma universidad, cualquier duda o cosa que quiera saber, siempre estaré para usted."
+        },
+        {
+            "usuario": "kalel",
+            "password": "000011",
+            "carta": "Hola kalel, usted es muy bueno, tanto persona como estudiante, solo que derepente nos cuesta un poquito trabajar y enfocarnos verdad?, solo le voy a pedir que en lo que desee estudiar entienda que hay que trabajar para aprender, siempre sea tan buena persona como es, mucho cuidado con las personas en las que confía, y recuerde, siga siendo feliz."
+        },
+        {
+            "usuario": "didier",
+            "password": "000100",
+            "carta": "Didier, usted es todo un caso, es tan buen alumno, es sociable con todos, todo le busca solución, pero hay ocasiones en las que siento que toda esa energía la enfoca mal. \nUsted tiene la energía de lider nato, porfavor sepa utilizar esa energía, enfoquece en sus metas, sea feliz, y haga muchos amigos en el camino, no se quede con ganas de nada, recuerde que siempre estaré para usted.."
+        },
+        {
+            "usuario": "alex",
+            "password": "000101",
+            "carta": ""
+        },
+        {
+            "usuario": "raul",
+            "password": "000110",
+            "carta": "Hola raul, buen día, espero que esté bien, usted ha tenido un crecimiento muy grande, ya no es ese niño que se quejaba de todo cuando lo conocí. \n Siempre siga sus metas, recuerde que siempre que falle, lo importante es levantarse, no importa cuanto nos tome, simpre apoyese de sus amigos, deje de lado ese orgullo tan grande que tiene, si se lo propone, puede ser un lider en cualquier aspecto, recuerde balancear la vida social con la profesional, hay tiempo para todo, sea feliz, y recuerde que siempre estaré pra apoyarlo"
+        },
+        {
+            "usuario": "carlos",
+            "password": "000111",
+            "carta": "Carlos, espero que con el tiempo pueda soltar la tristeza que esconde detras de la sonrisa que muestra a todos, porfavor recuerde que siempre usted es primero, usted vale mucho y merece ser muy feliz, porfavor siga sus sueños, algun día espero comer lo que prepare, recuerde que ser responsable es primordial en cualquier carrera, siempre estaré para apoyarlo, y apoyese mucho de sus amigos."
+        },
+        {
+            "usuario": "gael",
+            "password": "001000",
+            "carta": "Gael, como siempre primero le pregunto, como está?, le quiero reconocer mucho lo responsable y centrado que se ha vuelto, le admiro mucho la dedicacion y disciplina que le tiene al deporte, espero que eso la mantenga por siempre y lo pueda transferir a otros aspectos de su vida, porfavor no se limite, haga muchos amigos, no se aisle, pida ayuda cuando lo necesite y no sea orgulloso, tiene mucho potencial, espero algun día poder verlo competir y despues saber que es un gran profesional. Sea feliz"
+        },
+        {
+            "usuario": "alexa",
+            "password": "001001",
+            "carta": "Miss alexa como está?, que le digo?, con usted nunca tuve ningún problema, siempre fue una niña super centrada, respetuosa, dedicada y al pendiente de todos, espero que siga así. \nLe admiro mucho la carrera que eligio estudiar, pero porfavor, no deje de lado a sus amigos, haga muchos amigos, y sea muy feliz.\nAlgo que aprendi con el paso de los años es que de todos mis maestros aprendí algo, los buenos me enseñaron como quería ser y los malos lo que no me gustaría, intente ser un combinacion de eso, yo se que será excelente maestra o lo que se proponga, espero algun día trabajar con usted, porfavor siempre que lo ocupe pida ayuda, y recuerde que cualquier duda que tenga simpre estaré para apoyarla."
+        },
+        {
+            "usuario": "martin",
+            "password": "001010",
+            "carta": "Que onda martin, como está?, espero que en la universidad pueda expresar todo el potencial que yo sé que tiene para dentro, siga sus sueños, usted es una persaon muy dedicada cuando hace algo que le gusta, encuentre eso y siga adelante.\nPorfavor centrece, persiga sus metas, y sea muy feliz."
+        },
+        {
+            "usuario": "blake",
+            "password": "001011",
+            "carta": "Hola blake, espero que este bien\nComo le he dicho varias veces, siga su pasión porfavor, usted es muy bueno en lo que hace, y siempre se le ve feliz hablando de su profesion, porfavor siga ahi, tiene mucho talento y trabaja duro, con esa combinacion no hay nada que lo vaya a detener, porfavor sea humilde y aprenda todo lo que pueda de todos, que no se le apague esa chispa de curiosidad que tiene.\nHaga muchos amigos y sea feliz, recuerde que la parte social tambien es muy importante."
+        },
+        {
+            "usuario": "camila",
+            "password": "001100",
+            "carta": "Hola camila, no sabe lo feliz que me hace ver que durante todo este tiempo siempre fue una persona dedicada, tambien me alegra mucho que siempre pudo ser amiga para sus compañeros, usted puede estudiar lo que sea, lo que sea que elija siga siendo igual de dedicada, espero que sea muy feliz, y cualquier duda que tenga sabe que estoy para apoyarla."
+        },
+        {
+            "usuario": "alison",
+            "password": "001101",
+            "carta": "Hola alison, como anda?, usted y yo sabemos que hay veces en que todo pareciera que va mal, pero recuerde que todo con el tiempo, terapia y sus amigos pasa, no me queda la menor duda que será la mejor enfermera que exista en el mudo, porque es muy buena persona.\nSiga sus sueños, espero que algun día me toque verla como profesionista, yo se que es muy muy buena alumna, eso no me queda duda, solo recuerde que la parte social tambien es muy importante, tenga un balance, sea feliz, y siempre estaré para apoyarla."
+        },
+        {
+            "usuario": "rebeca",
+            "password": "001110",
+            "carta": "Hola rebe, cuando la vi por primera vez pense que era una niña que no le importaba nadie mas que ella, y que iba a batallar mucho con usted, no sabe lo feliz que me hace ver que me cayó la boca, es una de mis alumnas mas dedicadas, es excelente alumna y persona, espero que siempre siga así, y haga muchos amigos, no cierre su circulo social, se que lo que sea que usted quiera estudiar será excelente, sea feliz y siga siendo tan buena persona como es."
+        },
+        {
+            "usuario": "jeni",
+            "password": "001111",
+            "carta": "Hola jeni, como anda?, espero que bien, usted es una excelente persona, en la parte academica solo nos falta un pequeño empujoncito para ser la excelente profesional que se que puede ser.\nDe lo que hemos hablado, porfavor entienda que usted no es una molestia, porfavor pida ayuda cuando lo ocupe, usted es importante y merece ser feliz, escoja bien con quien quiere estar, cualquier cosa que necesite, siempre estaré para ayudarles."
+        },
+        {
+            "usuario": "jenny",
+            "password": "010000",
+            "carta": "Hola jenny, usted es una de mis alumnas con las que nunca he tenido ningun problema, siempre ha sido muy responsable y dedicada, cuento los días para probar los platillos que será capaz de hacer,  con toda esa creatividad, empeño, resposabilidad, dedicacion y esfuerzo que he visto en usted.\nSiga así, sea feliz, haga muchos amigos y cuando haga sus platillos aqui tiene su conejillo de indias."
+        },
+        {
+            "usuario": "diego",
+            "password": "010001",
+            "carta": "Diego, me es impresionante el cambio que he visto en usted, cuando porfin encuentra algo que le guste, es impresionante el enfonque que le pone, no me queda duda que en lo que sea que se quiera dedicar, será excelente, pero porfavor encuentre algo que le apasione.\nPorfavor entienda que hay tiempo y lugar para todo, sea muy feliz."
+        },
+        {
+            "usuario": "emiliana",
+            "password": "010010",
+            "carta": "Hola mi doc, como anda?, con lo dedicada que es, estoy seguro que será una excelente doctora, con lo responsable que es, no me queda duda que la especialidad que quiera la va a conseguir y ser excelente, espero que con el paso del tiempo me toque verla desempeñarse como profesional.\nNo se le olvide hacer muchos amigos,dormir bien, y no faltar a clases."
+        },
+        {
+            "usuario": "lua",
+            "password": "010011",
+            "carta": "Hola lua, como está, casi me da un infarto como me soltó la noticia que iba a ser mamá.\nLa admiro mucho porque la veo segura de que va a hacer, y me alegra mucho verla feliz, en este etapa que va a vivir busque mucho apoyarse de su familia y amigos, usted es muy trabajadora por eso no me cabe duda que no me tengo que preocupar por usted, espero que algo de lo que le enseñe le pueda servir despues, sea muy feliz, y siempre estaré para apoyarla."
+        },
+        {
+            "usuario": "regina",
+            "password": "010100",
+            "carta": "Hola regina, los trabajos de diseño de usted que he visto son impresionantes, espero que eso nunca lo deje de lado, es muy talentosa, y cuando la vea trabajar en eso la veo feliz.\nSea muy feliz, haga muchos amigos y porfavor sea responsable, no deje las cosas importantes de lado, haga muchos amigos y sea una buena profesionista."
+        },
+        {
+            "usuario": "manu",
+            "password": "010101",
+            "carta": "Hola manu, buen día, es impresionante que cuando usted se enfoca logra hacer trabajos impresionantes, si no estudiado algo de lo que yo le he enseñado, espero que no lo deje de lado, es muy bueno en este, una de la cosas que tiene que entender, es que tenemos que aprender a trabajar en equipo y aprender a ser respetusos con nuestros compañeros, tambien algo que me gustaria es que recuerde que siempre hay que respetar a todos, sea lo que sea que estudie recuerde que tambien es importante hacer amigos y ser feliz, sea respetuoso y atento a los detalles, pida y brinde ayuda cuando se ocupe, sea muy feliz."
+        },
+        {
+            "usuario": "aniel",
+            "password": "010110",
+            "carta": "Que onda aniel, como anda?, en la parte academica no tengo nada que decirle, es excelente alumno, en su caso para su vida profesional nos hace falta trabajar en las relaciones con sus compañeros, porque aunque usted es un excelente alumno, en algun punto le tocará trabajar en equipo, y creo que es algo que podemos mejora.\nNo se si vaya a estudiar algo de mi carrera pero solo quiero que sepa que tiene mucho talento para eso, pero siga sus sueños, siempre estaré para apoyarlo, recuerde ser feliz, haga muchos amigos, y trabaje en lo que le guste."
+        },
+        {
+            "usuario": "dess",
+            "password": "010111",
+            "carta": "Hola miss dess, como anda?, usted creo que es la alumna que cualquier maestro desearia, es la persona mas organizada y responsable que conozco, pensaria que lleva muchos años ya siendo una profesional, no me cabe duda que así quisiera ser astronauta lo lograria.\nYo se que va a ser la mejor maestra de la historia, obvio despues de mi, por eso no me preocupo, pero porfavor recuerde ser humilde, aprender a trabajar con los demás, ser tolerante y entender que hay personas irresponsables y tenemos que aprender a convivir con ellos.\nTrabaje su tolerancia y paciencia, y siga trabajando así. "
+        },
+        {
+            "usuario": "abram",
+            "password": "011000",
+            "carta": "Hola abram, es uno de mis alumnos con mas habilidad, el unico problema es que es muy muy muy muy muy distraido, pero se que eso va a cambiar.\nEncuetre algo que le apasione, porque cuando lo vea trabajar en algo que le guste, pareciera todo un profesional, porfavor, sea respetuoso con sus maestros y compañeros, aprendales mucho, recuerde ser muy feliz, siempre porfavor pida ayuda."
+        },
+        {
+            "usuario": "andres",
+            "password": "011001",
+            "carta": "Hola andres, como anda, espero que bien, con usted me pasa algo curioso, siempre fue un alumno muy irresponsable, pero las veces que me hablaba de algo que le gustaba notaba el genuino interes y veia como los ojos le brillaban, porfavor encuentre algo que le apasione así, porque tiene mucho potencial, recuerde ser feliz, y porfavor pida ayuda cuando la necesite."
+        },
+        {
+            "usuario": "ximena",
+            "password": "011010",
+            "carta": "Hola ximena, espero que encuentre que quiere estudiar, que sea algo que le apasione, porque cuando hace algo así, la he visto que trabaja excelente, recuerde hacer muchos amigos, y porfavor sea mas responsable y no deje las cosas para despues, aprenda a trabajar en equipo y se que será una excelente profesional."
+        },
+        {
+            "usuario": "said",
+            "password": "011011",
+            "carta": "Hola said, no se si usted es muy responsable o tiene mucha suerte, siempre todo le va bien, sin esfuerzo siempre consigue las cosas, y siempre lo veo feliz y relajado.\nCuando empiece su carrera verá, que en ciertos puntos ni con su mayor esfuerzo lograra cosas, porfavor sea mas organizado y responsable, no tengo duda de su inteligencia, estoy seguro que la carrera que estudie será el mejor de su rama, pero porfavor no deje las cosas para despues.\nNo le diga a nadie pero usted siempre ha sido mi alumno favorito, porfavor siga con esa misma educacion que tiene, con la ayuda que siempre le brinda a los demás, y pida ayuda cuando lo necesite y siga sonriendo como siempre, siempre tendra un amigo en mi, y siempre estaré para apoyarlo."
+        },
+        
+        {
+            "usuario": "admin",
+            "password": "123",
+            "carta": "Querida Ana,\n\nEn este último cuatrimestre, has demostrado una creatividad y dedicación que inspira a todos en el grupo. Tu proyecto sobre sostenibilidad no solo obtuvo la mejor calificación, sino que también dejó una huella en nuestra comunidad.\n\nRecuerda esto: 'Los grandes logros comienzan con pequeños pasos'. Donde sea que vayas, lleva contigo esa luz que nos compartiste.\n\nCon cariño,\nTus profesores y compañeros. Querida Ana,\n\nEn este último cuatrimestre, has demostrado una creatividad y dedicación que inspira a todos en el grupo. Tu proyecto sobre sostenibilidad no solo obtuvo la mejor calificación, sino que también dejó una huella en nuestra comunidad.\n\nRecuerda esto: 'Los grandes logros comienzan con pequeños pasos'. Donde sea que vayas, lleva contigo esa luz que nos compartiste.\n\nCon cariño,\nTus profesores y compañeros. Querida Ana,\n\nEn este último cuatrimestre, has demostrado una creatividad y dedicación que inspira a todos en el grupo. Tu proyecto sobre sostenibilidad no solo obtuvo la mejor calificación, sino que también dejó una huella en nuestra comunidad.\n\nRecuerda esto: 'Los grandes logros comienzan con pequeños pasos'. Donde sea que vayas, lleva contigo esa luz que nos compartiste.\n\nCon cariño,\nTus profesores y compañeros."
+        }
+    ]
+}
